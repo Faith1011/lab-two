@@ -1,0 +1,78 @@
+{
+	"name": [
+		"Brian",
+		"Connor",
+		"Phil",
+		"Carmen",
+		"Keke",
+		"Ashley"
+	],
+	"occupation": [
+		"chef",
+		"librarian",
+		"CEO",
+		"boxer",
+		"pro gamer",
+		"student"
+	],
+	"origin": [
+		"#name# the #occupation# #talked# to their #side kick# about the secret #meal#"
+	],
+	"talked": [
+		"discussed",
+		"revealed",
+		"communicated"
+	],
+	"side kick": [
+		"colleague",
+		"friend",
+		"coworker"
+	],
+	"meal": [
+		"dinner",
+		"feast",
+		"banquet",
+		"brunch"
+	]
+}
+
+
+{
+	"name": [
+		"Amanda",
+		"Riley",
+		"Morgan",
+		"Jessica",
+		"Mark",
+		"Nick"
+	],
+	"occupation": [
+		"doctor",
+		"teacher",
+		"designer",
+		"engineer",
+		"manager",
+		"firefighter"
+	],
+	"always": [
+		"never",
+		"rarely"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining"
+	],
+	"trouble": [
+		"struggle",
+		"predicament",
+		"discontent"
+	],
+	"today": [
+		"coincidently",
+		"currently",
+		"recently"
+	],
+	"origin": [
+		"#name# a #occupation# was #always# #expecting# this #trouble# #today#"
+	]
+}
